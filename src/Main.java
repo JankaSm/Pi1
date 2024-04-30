@@ -41,7 +41,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         //hracia plocha
-        String[] hP = {" ", " ", " ", " ", " ", " ", " ", " ", " "};
+        String[] hP = {"X", " ", " ", " ", " ", " ", " ", " ", " "};
         String[] hPNew = {" ", " ", " ", " ", " ", " ", " ", " ", " "};
 
 
